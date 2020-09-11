@@ -1,0 +1,17 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "backend for react graphql",
+  "main": "index.js",
+  "author": "m ilham surya pratama",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.1.1",
+    "lodash": "^4.17.11",
+    "mongoose": "^5.4.13",
+    "nodemon": "^1.18.10"
+  }
+}
